@@ -1,0 +1,141 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+header{
+    background-color: #181818;
+    height: 50vh;
+}
+.navbar {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    
+}
+.navbar a{
+    font-size: larger;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff;
+   
+}
+ a{
+    font-size: larger;
+}
+.projects{
+    background-color: rgb(16, 16, 16);
+    display: flex;
+}
+.container {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.img-fluid {
+    margin-top: 20%;
+    margin-left: 60%;
+    width: 100%;
+    height: auto;
+    border: 5px solid #333;
+    margin-bottom: 100px;
+}
+.introduction{
+    margin-top: 5%;
+    position: center;
+    color: rgb(246, 246, 246);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 130%;
+   
+    text-align: left;
+}
+.introduction h1{
+    position: center;
+    margin-left: 40%;
+}
+.introduction p{
+    margin-left: 25%;
+}
+
+body .work1{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+header .work1{
+padding: 40px;
+text-align: center;
+color: #ffffff;
+
+
+}
+.work1 h1{
+    color: #ffffff;
+    font-size: 500%;
+
+}
+
+.work1 p{
+    font-size: 150%;
+    width: 30%;
+    height: 50%;
+    margin-left: 33%;
+   
+
+}
+
+.back-button{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10%;
+}
+
+.back-button a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-button a:hover{
+    background-color: #333;
+}
+.contact{
+    background-color: #000000;
+    display: flex;
+}
+.contact h1 {
+    font-size: 200%;
+    color: #ffffff;
+    margin-left: 0;
+
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-item {
+    text-align: left;
+}
+
+.contact-item h2 {
+    font-size:150%;
+    color: #ffffff;
+}
+
+.contact-item p {
+    font-size: 150%;
+    color: #ffffff;
+}   
